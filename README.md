@@ -26,9 +26,3 @@ The goal of this project is to develop a linear regression model that accurately
 - Strengthened skills in data preprocessing and feature engineering.
 - Gained practical experience in training and evaluating regression models.
 - Developed a deeper understanding of predictive modeling in the healthcare analytics domain.
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone [repository_link_here]
